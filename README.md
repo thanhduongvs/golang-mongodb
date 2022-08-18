@@ -1,0 +1,6 @@
+- `mkdir golang-mongodb`
+- `cd golang-mongodb`
+- `go mod init onekiwi.com/api`
+- `go get github.com/gin-gonic/gin`
+- `go get go.mongodb.org/mongo-driver`
+- `go get github.com/golang-jwt/jwt`
